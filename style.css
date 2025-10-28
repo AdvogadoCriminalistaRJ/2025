@@ -9,7 +9,7 @@ body {
 header {
   text-align: center;
   padding: 20px 0;
-  border-bottom: 2px solid #0d2f2f; /* Esta é a linha verde decorativa */
+  border-bottom: 20px solid #0d2f2f; /* Esta é a linha verde decorativa */
 }
 
 .logo {
